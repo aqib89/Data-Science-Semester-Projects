@@ -1,4 +1,4 @@
-##Code of semester projects in MS Data Science
+## Code of semester projects in MS Data Science
 
 The projects consists of:
 
